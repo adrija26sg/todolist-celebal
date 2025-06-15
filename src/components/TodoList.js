@@ -305,7 +305,7 @@ const TodoList = () => {
                 className="due-date-input"
               />
               <button type="submit" className="submit-button">
-                Add Task
+                ADD
               </button>
             </form>
           )}

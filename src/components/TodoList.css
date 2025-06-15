@@ -304,7 +304,7 @@
 }
 
 .submit-button {
-  padding: 0.75rem 1.5rem; /* Consistent padding to match inputs */
+  padding: 0.3rem 0.5rem; /* Consistent padding to match inputs */
   background: #6e8efb;
   color: white;
   border: none;
