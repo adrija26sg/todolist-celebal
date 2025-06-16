@@ -1,6 +1,12 @@
 # React Todo List Application
 
 A modern, feature-rich Todo List application built with React. This application allows users to manage their tasks with features like task addition, removal, completion marking, filtering, and sorting.
+![image](https://github.com/user-attachments/assets/fffd6e9e-aa13-4a45-9914-f15176388a16)
+
+![image](https://github.com/user-attachments/assets/0953dce6-cfa1-42e8-bad9-dd79ad4197d6)
+![image](https://github.com/user-attachments/assets/d14b55d8-a73a-4d26-9c96-c5f2e0e55886)
+
+
 
 ## Features
 
